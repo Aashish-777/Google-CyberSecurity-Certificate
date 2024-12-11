@@ -5,7 +5,7 @@ Certifications
 1. **Foundations of Cybersecurity**
    - Explores the foundational concepts of cybersecurity, including key principles and practices for protecting digital systems.
    - Verification Link: https://coursera.org/verify/4MEI17A8CVRS
-  <p align="center"> <img src="https://imgur.com/owhrHOC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br /> <br />
+  
 
 2. **Play It Safe: Manage Security Risks**
    - Focuses on managing security risks effectively, emphasizing proactive measures to ensure system safety.
